@@ -1,3 +1,12 @@
+# we are given string which contains at lease one special character , one even digit and one odd digit.
+# then count no of special character.
+# if count is even then print all even and odd digits alternatively. First take the even digit.
+# else all odd and even digits alternatively. First take the odd digit.
+
+# Test Case
+# A5c67r21i@p#8t
+# output : 652781
+
 input = input()
 even = []
 odd = []
