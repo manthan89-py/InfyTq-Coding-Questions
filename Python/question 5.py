@@ -1,4 +1,14 @@
-#  brackets matching {} () [] if not match then returned mismatch positioned
+# Brackets matching {} () [] 
+# If all the brackets are matched then return 0
+# Otherwise return Mismatched position of bracket.
+
+# Test Case
+# {([])}
+# output = 0
+
+# Test Case
+# {[[]])}
+# output = 6
 
 input = input()
 n = len(input)
