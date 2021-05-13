@@ -1,4 +1,10 @@
-# pronic number
+# Pronic number is product of two consecutive number
+
+# Make unique substring from given number
+# Check wheather it is pronic Number or not
+# Add the substring in outarr
+# Print the outarr
+
 import math
 
 inputarr = input()
