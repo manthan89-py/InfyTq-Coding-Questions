@@ -1,3 +1,7 @@
+# Check vertically , horizontly and diagonaly in Matrix. 
+# If any number repeat 4 times then add that number in list.
+# At the end return minimum from that list.
+# If you will not find any number like that then return -1
 
 row , col = list(map(int, input().split()))
 answers = []
