@@ -1,4 +1,13 @@
 # Largest even number possible from given string.
+# If not able to find any even number return -1.
+
+# Test Case
+# asdf@75483
+# output : 87534
+
+# Test Case
+# infytq@13579
+# output : -1
 
 import itertools
 input = input()
