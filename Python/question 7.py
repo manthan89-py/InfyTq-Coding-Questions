@@ -1,4 +1,12 @@
-# String Rotation
+# Take in input in given format ( string : code )
+# check for code digits
+# if sum of square of digits is even add last two character at the top of string
+# else add first character at the last.
+
+# Test Case
+# abcd:1234,bcdgfhf:127836,sdjks:1245
+# output : cdab cdgfhfbc kssdj
+
 
 input = input()
 list_of_inputs = input.split(',')
