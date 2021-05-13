@@ -1,3 +1,13 @@
+# We are given on list of numbers.
+# check of each number if sum of factors of that number present in the list.
+# If Present print that number
+# otherwise -1
+
+# Test Case
+# 0,1,6
+# output : 0 1 6
+
+
 # Sum of factor
 def factor(n):
     sum = 0
