@@ -8,6 +8,8 @@
 # Test Case 
 # ababa
 # output : 2
+
+
 input = input()
 length = len(input)
 
