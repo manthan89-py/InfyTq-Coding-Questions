@@ -1,6 +1,10 @@
 # For given list take the number at even places only. Square that number in list and
 # Output First Four Digits.
 
+# Test Case
+# 5624381275
+# output: 3616
+
 input = input()
 list_of_numbers = list(map(int , list(input)))
 new_list = []
