@@ -1,5 +1,5 @@
 <p align='center'>
-<img src='https://play-lh.googleusercontent.com/aY76D6AyzL5AGew_-qOylEG15FnVuYkdvpp4Qxof1FFwrbIwH1TJkhNa3vL-UMRawHI'>
+<img src='https://play-lh.googleusercontent.com/aY76D6AyzL5AGew_-qOylEG15FnVuYkdvpp4Qxof1FFwrbIwH1TJkhNa3vL-UMRawHI' height=350 width = 350>
 </p>
 
 # InfyTq-Coding-Questions
