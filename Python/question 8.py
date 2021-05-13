@@ -1,4 +1,13 @@
 # longest prefix and suffix conditions are both are equal and not overlapped
+# print the length of suffix or prefix
+
+# Test Case 
+# abcdabc
+# output : 3
+
+# Test Case 
+# ababa
+# output : 2
 input = input()
 length = len(input)
 
