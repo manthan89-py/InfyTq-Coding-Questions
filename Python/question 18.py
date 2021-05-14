@@ -1,5 +1,6 @@
-# convet decimal number to given base number and
+# convert decimal number to given base number and
 # find maximun continous occuring zeros
+
 # sample input
 # 68
 # 2
