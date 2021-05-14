@@ -1,3 +1,11 @@
+# We are given one number (innum).
+# We have to find two number.
+# num1 - largest palindrome less then innum.
+# num2 - smallest palindrome greater then innum.
+# After finding this nummber add that two number and 
+# Check wheather this number is palindrome or not.
+# If not then decrease innum by 1 and again repeat above process.
+
 innum = int(input())
 
 def is_palindrome(number):
