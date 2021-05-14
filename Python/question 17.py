@@ -1,3 +1,10 @@
+# We are given two list find the sum of the list first.
+# Then find pair from list1 and list2 that make both sum equal.
+# After find that pair print first the pair which product is even number.
+# After that print the odd number.
+# Make sure print even and odd number with , seprated.
+# If pair doesn't exist then return -1.
+
 list1 = list(map(int, input().split()))
 list2 = list(map(int, input().split()))
 
