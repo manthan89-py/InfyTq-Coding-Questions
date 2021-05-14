@@ -1,3 +1,11 @@
+# For Given matrix count no of zero elements and non zero elements.
+# If zero element > non-zero element then you have to make zero values to non zero values accroding to below rules.
+# For particular element you have to find that element corosponding rowsum and corosponding columsum.
+# If rowsum > colsum => then find the smalles num which addition with rowsum is divisible by 3
+# Else find the smallest num which addition with rowsum is divisible by 3
+# You have make zero elements to non zero elements till non-zero-elements > zero-element.
+# If your matrix has already non-zero-elements > zero-elements then return -1.
+
 m = int(input())
 M = []
 for i in range(m):
